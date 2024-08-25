@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi there, I'm Adrian 👋
+
+I am currently working full-time as a full-stack software developer, and I also love learning new things including and not limited to:
+- 🦀 CLI and Desktop (Rust and Tauri)
+- 🤷🏿 Backend (Golang)
+- 📱 Android (Kotlin)
+
+📫 How to reach me: <a href="mailto:ansuztarunora+github@proton.me">Email</a>
+
 
 <!--
 **acgtubio/acgtubio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
