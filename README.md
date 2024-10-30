@@ -5,7 +5,7 @@ I am currently working full-time as a full-stack software developer, and I also 
 - 🤷🏿 Backend (Golang)
 - 📱 Android (Kotlin)
 
-📫 How to reach me: <a href="mailto:ansuztarunora+github@proton.me">Email</a>
+📫 How to reach me: <a href="mailto:acgtubio+github@gmail.com">Email</a>
 
 
 <!--
