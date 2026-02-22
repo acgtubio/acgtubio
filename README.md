@@ -1,8 +1,8 @@
 ## Hi there, I'm Adrian 👋
 
-I am currently working full-time as a full-stack software developer, and I also love learning and making new things including and not limited to:
+I am currently working full-time as a full-stack software developer, and I making new things using:
 - 🤷🏿 Backend (Golang/Java)
-- 🦀 CLI (Rust)
+- 🦀 CLI/TUI (Rust)
 - 📱 Android (Kotlin)
 
 📫 How to reach me: <a href="mailto:acgtubio+github@gmail.com">Email</a>
