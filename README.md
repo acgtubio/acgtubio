@@ -1,6 +1,6 @@
 ## Hi there, I'm Adrian 👋
 
-I am currently working full-time as a full-stack software developer, and I making new things using:
+I am currently working full-time as a full-stack software developer, and I like making things.
 - 🤷🏿 Backend (Golang/Java)
 - 🦀 CLI/TUI (Rust)
 - 📱 Android (Kotlin)
